@@ -57,12 +57,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_34D75A512D824D3987C20B1A0429F0F6"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_35C962220B37A2A5D38C60BAC4E844D1"
         "OwnerKey" = "8:_675A926BB8BC4750A65C303FE3765D3F"
         "MsmSig" = "8:_UNDEFINED"
@@ -459,26 +453,6 @@
             {
             "SourcePath" = "8:..\\..\\bin\\x86\\Release\\devtools_resources.pak"
             "TargetName" = "8:devtools_resources.pak"
-            "Tag" = "8:"
-            "Folder" = "8:_EFE4C009523049FE86E0AB72DC2F4037"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_34D75A512D824D3987C20B1A0429F0F6"
-            {
-            "SourcePath" = "8:..\\..\\bin\\x86\\Release\\Adivinhador do Gartic.exe.manifest"
-            "TargetName" = "8:Adivinhador do Gartic.exe.manifest"
             "Tag" = "8:"
             "Folder" = "8:_EFE4C009523049FE86E0AB72DC2F4037"
             "Condition" = "8:"
@@ -898,7 +872,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Adivinhador do gartic"
         "ProductCode" = "8:{E1B98761-5CA8-461C-94E8-344F48F42DB2}"
-        "PackageCode" = "8:{60FCC338-A1A9-4414-B435-6E32959003F9}"
+        "PackageCode" = "8:{88344CFC-17E3-4111-A1F2-387695BBA669}"
         "UpgradeCode" = "8:{84581FFD-84E0-416C-BF57-7833736C22FA}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"

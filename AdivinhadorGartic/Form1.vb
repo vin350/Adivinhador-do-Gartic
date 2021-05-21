@@ -76,13 +76,13 @@ Public Class Form1
         If My.Settings.Tecla1 = "" Then
             Form2.TextBox1.Text = "113"
         Else
-            Form2.TextBox1.Text = Char.ConvertFromUtf32(My.Settings.Tecla1)
+            Form2.TextBox1.Text = My.Settings.Tecla1
         End If
 
         If My.Settings.Tecla2 = "" Then
             Form2.TextBox2.Text = "115"
         Else
-            Form2.TextBox2.Text = Char.ConvertFromUtf32(My.Settings.Tecla2)
+            Form2.TextBox2.Text = My.Settings.Tecla2
         End If
 
     End Sub
@@ -109,14 +109,14 @@ Public Class Form1
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         Form2.ShowDialog()
-        Form2.TextBox1.Text = Char.ConvertFromUtf32(My.Settings.Tecla1)
-        Form2.TextBox2.Text = Char.ConvertFromUtf32(My.Settings.Tecla2)
+        Form2.TextBox1.Text = My.Settings.Tecla1
+        Form2.TextBox2.Text = My.Settings.Tecla2
     End Sub
 
     Private Sub Button4_Click(sender As Object, e As MouseEventArgs) Handles Button4.Click
         MsgBox("1- Primeiro mova o mouse em cima de 'Responda aqui...' (no gartic)
-2- Depois clicke F2 para capturar a cordenada do mouse.
-3- Em seguida copie a palavra que deseja responder.
+2- Em seguida clicke F2 para capturar a cordenada do mouse. (não mexe o mouse)
+3- Depois copie a palavra que deseja responder.
 4- Por ultimo clicke F4 para enviar a resposta.
 
 TECLAS PADRÕES:
