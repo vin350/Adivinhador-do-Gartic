@@ -4,7 +4,7 @@
 
 Site para usar [https://adivinhadorgartic.tk/](https://adivinhadorgartic.tk/)
 ## Requisitos (Requirements)
-[Download .NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472)
+[Download .NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-web-installer)
 
 ## Instalação (Installation)
 Caso você queira mais funções use o programa, para Baixar e Instalar -> [Release](https://github.com/vin350/Adivinhador-do-Gartic/releases/latest/download/Setup.Adivinhador.msi)
