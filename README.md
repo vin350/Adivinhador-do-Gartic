@@ -7,7 +7,7 @@ Site para usar [https://adivinhadorgartic.tk/](https://adivinhadorgartic.tk/)
 [Download .NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 
 ## Instalação (Installation)
-Caso você queira mais funções use o programa, para Baixar e Instalar -> [Release](https://github.com/vin350/Adivinhador-do-Gartic/releases)
+Caso você queira mais funções use o programa, para Baixar e Instalar -> [Release](https://github.com/vin350/Adivinhador-do-Gartic/releases/latest/download/Setup.Adivinhador.msi)
 
 ## Contribuições (Contributions)
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
